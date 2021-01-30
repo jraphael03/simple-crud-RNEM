@@ -1,0 +1,10 @@
+CLIENT 
+npx create-react-app .
+
+
+SERVER
+npm init -y
+npm install mysql 
+npm install express 
+
+
